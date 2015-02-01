@@ -1,0 +1,6 @@
+C:\Source\CSharpDemos\NumberReader\bin\Debug\NumberReader.exe.config
+C:\Source\CSharpDemos\NumberReader\bin\Debug\NumberReader.exe
+C:\Source\CSharpDemos\NumberReader\bin\Debug\NumberReader.pdb
+C:\Source\CSharpDemos\NumberReader\obj\Debug\NumberReader.csprojResolveAssemblyReference.cache
+C:\Source\CSharpDemos\NumberReader\obj\Debug\NumberReader.exe
+C:\Source\CSharpDemos\NumberReader\obj\Debug\NumberReader.pdb

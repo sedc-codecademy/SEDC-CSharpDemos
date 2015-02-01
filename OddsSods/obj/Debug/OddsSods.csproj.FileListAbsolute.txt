@@ -1,0 +1,5 @@
+C:\Source\CSharpDemos\OddsSods\bin\Debug\OddsSods.exe.config
+C:\Source\CSharpDemos\OddsSods\bin\Debug\OddsSods.exe
+C:\Source\CSharpDemos\OddsSods\bin\Debug\OddsSods.pdb
+C:\Source\CSharpDemos\OddsSods\obj\Debug\OddsSods.exe
+C:\Source\CSharpDemos\OddsSods\obj\Debug\OddsSods.pdb

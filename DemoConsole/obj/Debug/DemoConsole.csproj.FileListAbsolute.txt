@@ -1,0 +1,8 @@
+C:\Source\CSharpDemos\DemoConsole\bin\Debug\dc.exe.config
+C:\Source\CSharpDemos\DemoConsole\bin\Debug\dc.exe
+C:\Source\CSharpDemos\DemoConsole\bin\Debug\dc.pdb
+C:\Source\CSharpDemos\DemoConsole\obj\Debug\dc.exe
+C:\Source\CSharpDemos\DemoConsole\obj\Debug\dc.pdb
+C:\Source\CSharpDemos\DemoConsole\bin\Debug\HelperLibrary.dll
+C:\Source\CSharpDemos\DemoConsole\bin\Debug\HelperLibrary.pdb
+C:\Source\CSharpDemos\DemoConsole\obj\Debug\DemoConsole.csprojResolveAssemblyReference.cache

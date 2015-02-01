@@ -1,0 +1,11 @@
+C:\Source\CSharpDemos\DemoForms\bin\Debug\DemoForms.exe.config
+C:\Source\CSharpDemos\DemoForms\bin\Debug\DemoForms.exe
+C:\Source\CSharpDemos\DemoForms\bin\Debug\DemoForms.pdb
+C:\Source\CSharpDemos\DemoForms\obj\Debug\DemoForms.csprojResolveAssemblyReference.cache
+C:\Source\CSharpDemos\DemoForms\obj\Debug\DemoForms.Properties.Resources.resources
+C:\Source\CSharpDemos\DemoForms\obj\Debug\DemoForms.csproj.GenerateResource.Cache
+C:\Source\CSharpDemos\DemoForms\obj\Debug\DemoForms.exe
+C:\Source\CSharpDemos\DemoForms\obj\Debug\DemoForms.pdb
+C:\Source\CSharpDemos\DemoForms\obj\Debug\DemoForms.MyMainForm.resources
+C:\Source\CSharpDemos\DemoForms\bin\Debug\HelperLibrary.dll
+C:\Source\CSharpDemos\DemoForms\bin\Debug\HelperLibrary.pdb

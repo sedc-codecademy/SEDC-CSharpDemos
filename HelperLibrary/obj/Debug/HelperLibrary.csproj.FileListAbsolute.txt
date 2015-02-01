@@ -1,0 +1,4 @@
+C:\Source\CSharpDemos\HelperLibrary\bin\Debug\HelperLibrary.dll
+C:\Source\CSharpDemos\HelperLibrary\bin\Debug\HelperLibrary.pdb
+C:\Source\CSharpDemos\HelperLibrary\obj\Debug\HelperLibrary.dll
+C:\Source\CSharpDemos\HelperLibrary\obj\Debug\HelperLibrary.pdb
