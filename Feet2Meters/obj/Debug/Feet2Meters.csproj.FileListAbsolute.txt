@@ -4,3 +4,9 @@ C:\Source\CSharpDemos\Feet2Meters\bin\Debug\Feet2Meters.pdb
 C:\Source\CSharpDemos\Feet2Meters\obj\Debug\Feet2Meters.csprojResolveAssemblyReference.cache
 C:\Source\CSharpDemos\Feet2Meters\obj\Debug\Feet2Meters.exe
 C:\Source\CSharpDemos\Feet2Meters\obj\Debug\Feet2Meters.pdb
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Feet2Meters\bin\Debug\Feet2Meters.exe.config
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Feet2Meters\bin\Debug\Feet2Meters.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Feet2Meters\bin\Debug\Feet2Meters.pdb
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Feet2Meters\obj\Debug\Feet2Meters.csprojResolveAssemblyReference.cache
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Feet2Meters\obj\Debug\Feet2Meters.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Feet2Meters\obj\Debug\Feet2Meters.pdb

@@ -1,0 +1,6 @@
+C:\Source\CSharpDemos\SEDC-CSharpDemos\DigitsFinder\bin\Debug\DigitsFinder.exe.config
+C:\Source\CSharpDemos\SEDC-CSharpDemos\DigitsFinder\bin\Debug\DigitsFinder.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\DigitsFinder\bin\Debug\DigitsFinder.pdb
+C:\Source\CSharpDemos\SEDC-CSharpDemos\DigitsFinder\obj\Debug\DigitsFinder.csprojResolveAssemblyReference.cache
+C:\Source\CSharpDemos\SEDC-CSharpDemos\DigitsFinder\obj\Debug\DigitsFinder.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\DigitsFinder\obj\Debug\DigitsFinder.pdb
