@@ -1,0 +1,6 @@
+C:\Source\CSharpDemos\SEDC-CSharpDemos\LottoCalculator\bin\Debug\LottoCalculator.exe.config
+C:\Source\CSharpDemos\SEDC-CSharpDemos\LottoCalculator\bin\Debug\LottoCalculator.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\LottoCalculator\bin\Debug\LottoCalculator.pdb
+C:\Source\CSharpDemos\SEDC-CSharpDemos\LottoCalculator\obj\Debug\LottoCalculator.csprojResolveAssemblyReference.cache
+C:\Source\CSharpDemos\SEDC-CSharpDemos\LottoCalculator\obj\Debug\LottoCalculator.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\LottoCalculator\obj\Debug\LottoCalculator.pdb

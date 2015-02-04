@@ -1,0 +1,11 @@
+C:\Source\CSharpDemos\SEDC-CSharpDemos\WarOfTheLastAlliance\bin\Debug\WarOfTheLastAlliance.exe.config
+C:\Source\CSharpDemos\SEDC-CSharpDemos\WarOfTheLastAlliance\bin\Debug\WarOfTheLastAlliance.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\WarOfTheLastAlliance\bin\Debug\WarOfTheLastAlliance.pdb
+C:\Source\CSharpDemos\SEDC-CSharpDemos\WarOfTheLastAlliance\bin\Debug\WotLAEntities.dll
+C:\Source\CSharpDemos\SEDC-CSharpDemos\WarOfTheLastAlliance\bin\Debug\WotLAEntities.pdb
+C:\Source\CSharpDemos\SEDC-CSharpDemos\WarOfTheLastAlliance\obj\Debug\WarOfTheLastAlliance.csprojResolveAssemblyReference.cache
+C:\Source\CSharpDemos\SEDC-CSharpDemos\WarOfTheLastAlliance\obj\Debug\WarOfTheLastAlliance.Form1.resources
+C:\Source\CSharpDemos\SEDC-CSharpDemos\WarOfTheLastAlliance\obj\Debug\WarOfTheLastAlliance.Properties.Resources.resources
+C:\Source\CSharpDemos\SEDC-CSharpDemos\WarOfTheLastAlliance\obj\Debug\WarOfTheLastAlliance.csproj.GenerateResource.Cache
+C:\Source\CSharpDemos\SEDC-CSharpDemos\WarOfTheLastAlliance\obj\Debug\WarOfTheLastAlliance.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\WarOfTheLastAlliance\obj\Debug\WarOfTheLastAlliance.pdb
