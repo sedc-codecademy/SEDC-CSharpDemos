@@ -21,11 +21,47 @@ namespace WarOfTheLastAlliance
 
         private void btnCreate_Click(object sender, EventArgs e)
         {
-            Creature elf = new Orc();
 
-            Creature human = new Human();
 
-            Creature orc = new Orc();
+            var elf = new Elf();
+
+            var human = new Human();
+
+            var orc = new Orc();
+
+            var creature = CreatureFactory.MakeCreature();
+
+            //creatures.Add(elf);
+            //creatures.Add(human);
+            //creatures.Add(orc);
+
+            //creatures[0].Name = "MyElf";
+
+            //MessageBox.Show(elf.Name);
+        }
+
+        private void btnMakeCreature_Click(object sender, EventArgs e)
+        {
+            var creature = CreatureFactory.MakeCreature();
+            lbCreatures.Items.Add(creature);
+        }
+
+        private void btnElf_Click(object sender, EventArgs e)
+        {
+            var creature = CreatureFactory.MakeCreature(CreatureType.Elf);
+            lbCreatures.Items.Add(creature);
+        }
+
+        private void btnHuman_Click(object sender, EventArgs e)
+        {
+            var creature = CreatureFactory.MakeCreature(CreatureType.Human);
+            lbCreatures.Items.Add(creature);
+        }
+
+        private void btnOrc_Click(object sender, EventArgs e)
+        {
+            var creature = CreatureFactory.MakeCreature(CreatureType.Orc);
+            lbCreatures.Items.Add(creature);
         }
     }
 }
