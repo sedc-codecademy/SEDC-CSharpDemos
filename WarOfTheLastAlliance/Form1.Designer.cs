@@ -34,6 +34,7 @@
             this.btnOrc = new System.Windows.Forms.Button();
             this.btnHuman = new System.Windows.Forms.Button();
             this.btnElf = new System.Windows.Forms.Button();
+            this.btnAttaaaaaaack = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnCreate
@@ -94,11 +95,22 @@
             this.btnElf.UseVisualStyleBackColor = true;
             this.btnElf.Click += new System.EventHandler(this.btnElf_Click);
             // 
+            // btnAttaaaaaaack
+            // 
+            this.btnAttaaaaaaack.Location = new System.Drawing.Point(54, 76);
+            this.btnAttaaaaaaack.Name = "btnAttaaaaaaack";
+            this.btnAttaaaaaaack.Size = new System.Drawing.Size(196, 170);
+            this.btnAttaaaaaaack.TabIndex = 6;
+            this.btnAttaaaaaaack.Text = "Attaaaaaaack";
+            this.btnAttaaaaaaack.UseVisualStyleBackColor = true;
+            this.btnAttaaaaaaack.Click += new System.EventHandler(this.btnAttaaaaaaack_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(855, 450);
+            this.Controls.Add(this.btnAttaaaaaaack);
             this.Controls.Add(this.btnElf);
             this.Controls.Add(this.btnHuman);
             this.Controls.Add(this.btnOrc);
@@ -119,6 +131,7 @@
         private System.Windows.Forms.Button btnOrc;
         private System.Windows.Forms.Button btnHuman;
         private System.Windows.Forms.Button btnElf;
+        private System.Windows.Forms.Button btnAttaaaaaaack;
     }
 }
 

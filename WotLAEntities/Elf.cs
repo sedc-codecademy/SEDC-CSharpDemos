@@ -10,9 +10,19 @@ namespace WotLAEntities
     {
         public bool IsArcher { get; set; }
 
-        public Elf()
+        public Elf(string name)
         {
+            this.Name = name;
             IsArcher = true;
+            Health = 60;
+            Power = 20;
+            IsAlive = true;
         }
+
+        public override string ToString()
+        {
+            return string.Format("Elf {0} ({1})", Name, Health);
+        }
+
     }
 }

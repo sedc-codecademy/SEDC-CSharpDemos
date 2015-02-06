@@ -8,8 +8,30 @@ namespace WotLAEntities
 {
     public abstract class Creature
     {
+        private int health;
+
+        public int Health
+        {
+            get { return health; }
+            set
+            {
+                if (value <= 0)
+                {
+                    health = 0;
+                    IsAlive = false;
+                    return;
+                }
+                health = value;
+            }
+        }
+
         public string Name { get; set; }
-        public int Health { get; set; }
         public int Power { get; set; }
+        public bool IsAlive { get; protected set; }
+
+        public void Attack(Creature target)
+        {
+            target.Health -= this.Power;
+        }
     }
 }

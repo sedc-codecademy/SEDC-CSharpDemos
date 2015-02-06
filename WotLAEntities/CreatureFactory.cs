@@ -8,25 +8,15 @@ namespace WotLAEntities
 {
     public static class CreatureFactory
     {
-
-        public static string Name { get; set; }
+        private static int ElfCounter = 0;
+        private static int HumanCounter = 0;
+        private static int OrcCounter = 0;
 
         public static Creature MakeCreature()
         {
             Random r = new Random();
             var type = (CreatureType)r.Next(3);
-
-            switch (type)
-            {
-                case CreatureType.Elf:
-                    return new Elf();
-                case CreatureType.Human:
-                    return new Human();
-                case CreatureType.Orc: 
-                    return new Orc();
-                default:
-                    throw new InvalidOperationException("Invalid type");
-            }
+            return MakeCreature(type);
         }
 
         public static Creature MakeCreature(CreatureType type)
@@ -34,14 +24,35 @@ namespace WotLAEntities
             switch (type)
             {
                 case CreatureType.Elf:
-                    return new Elf();
+                    return MakeElf();
                 case CreatureType.Human:
-                    return new Human();
+                    return MakeHuman();
                 case CreatureType.Orc:
-                    return new Orc();
+                    return MakeOrc();
                 default:
                     throw new ArgumentOutOfRangeException("type");
             }
+        }
+
+        private static Elf MakeElf()
+        {
+            ElfCounter++;
+            string name = string.Format("#{0}", ElfCounter);
+            return new Elf(name);
+        }
+
+        private static Human MakeHuman()
+        {
+            HumanCounter++;
+            string name = string.Format("#{0}", HumanCounter);
+            return new Human(name);
+        }
+
+        private static Orc MakeOrc()
+        {
+            OrcCounter++;
+            string name = string.Format("#{0}", OrcCounter);
+            return new Orc(name);
         }
     }
 }

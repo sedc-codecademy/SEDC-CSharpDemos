@@ -14,54 +14,66 @@ namespace WarOfTheLastAlliance
 {
     public partial class Form1 : Form
     {
+        private List<Creature> creatures;
+
         public Form1()
         {
             InitializeComponent();
+            creatures = new List<Creature>();
         }
 
         private void btnCreate_Click(object sender, EventArgs e)
         {
 
+        }
 
-            var elf = new Elf();
-
-            var human = new Human();
-
-            var orc = new Orc();
-
-            var creature = CreatureFactory.MakeCreature();
-
-            //creatures.Add(elf);
-            //creatures.Add(human);
-            //creatures.Add(orc);
-
-            //creatures[0].Name = "MyElf";
-
-            //MessageBox.Show(elf.Name);
+        private void UpdateDisplay()
+        {
+            lbCreatures.Items.Clear();
+            lbCreatures.Items.AddRange(creatures.ToArray());
         }
 
         private void btnMakeCreature_Click(object sender, EventArgs e)
         {
             var creature = CreatureFactory.MakeCreature();
-            lbCreatures.Items.Add(creature);
+            creatures.Add(creature);
+            UpdateDisplay();
         }
+
 
         private void btnElf_Click(object sender, EventArgs e)
         {
             var creature = CreatureFactory.MakeCreature(CreatureType.Elf);
-            lbCreatures.Items.Add(creature);
+            creatures.Add(creature);
+            UpdateDisplay();
+
         }
 
         private void btnHuman_Click(object sender, EventArgs e)
         {
             var creature = CreatureFactory.MakeCreature(CreatureType.Human);
-            lbCreatures.Items.Add(creature);
+            creatures.Add(creature);
+            UpdateDisplay();
         }
 
         private void btnOrc_Click(object sender, EventArgs e)
         {
             var creature = CreatureFactory.MakeCreature(CreatureType.Orc);
-            lbCreatures.Items.Add(creature);
+            creatures.Add(creature);
+            UpdateDisplay();
         }
+
+        private void btnAttaaaaaaack_Click(object sender, EventArgs e)
+        {
+            Random r = new Random();
+            var index = r.Next(creatures.Count);
+            var attacker = creatures[index];
+            index = r.Next(creatures.Count);
+            var victim = creatures[index];
+
+            attacker.Attack(victim);
+            UpdateDisplay();
+        }
+
     }
 }
