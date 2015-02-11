@@ -12,9 +12,10 @@ namespace WotLAEntities
         private static int HumanCounter = 0;
         private static int OrcCounter = 0;
 
+        private static Random r = new Random();
+
         public static Creature MakeCreature()
         {
-            Random r = new Random();
             var type = (CreatureType)r.Next(3);
             return MakeCreature(type);
         }
@@ -38,14 +39,31 @@ namespace WotLAEntities
         {
             ElfCounter++;
             string name = string.Format("#{0}", ElfCounter);
-            return new Elf(name);
+
+            var type = r.Next(2);
+            if (type == 0)
+            {
+                return new Elf(name);
+            }
+            else
+            {
+                return new ElfFighter(name);
+            }
         }
 
         private static Human MakeHuman()
         {
             HumanCounter++;
             string name = string.Format("#{0}", HumanCounter);
-            return new Human(name);
+            var type = r.Next(2);
+            if (type == 0)
+            {
+                return new Human(name);
+            }
+            else
+            {
+                return new HumanFighter(name);
+            }
         }
 
         private static Orc MakeOrc()

@@ -35,6 +35,7 @@
             this.btnHuman = new System.Windows.Forms.Button();
             this.btnElf = new System.Windows.Forms.Button();
             this.btnAttaaaaaaack = new System.Windows.Forms.Button();
+            this.lbStatus = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // btnCreate
@@ -105,11 +106,20 @@
             this.btnAttaaaaaaack.UseVisualStyleBackColor = true;
             this.btnAttaaaaaaack.Click += new System.EventHandler(this.btnAttaaaaaaack_Click);
             // 
+            // lbStatus
+            // 
+            this.lbStatus.FormattingEnabled = true;
+            this.lbStatus.Location = new System.Drawing.Point(477, 130);
+            this.lbStatus.Name = "lbStatus";
+            this.lbStatus.Size = new System.Drawing.Size(366, 277);
+            this.lbStatus.TabIndex = 7;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(855, 450);
+            this.Controls.Add(this.lbStatus);
             this.Controls.Add(this.btnAttaaaaaaack);
             this.Controls.Add(this.btnElf);
             this.Controls.Add(this.btnHuman);
@@ -132,6 +142,7 @@
         private System.Windows.Forms.Button btnHuman;
         private System.Windows.Forms.Button btnElf;
         private System.Windows.Forms.Button btnAttaaaaaaack;
+        private System.Windows.Forms.ListBox lbStatus;
     }
 }
 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WotLAEntities
 {
-    public class Orc : Creature
+    public class Orc : Creature, IWeaponWeilder
     {
         public override string ToString()
         {
@@ -20,6 +20,11 @@ namespace WotLAEntities
             Health = 200;
             Power = 20;
             IsAlive = true;
+        }
+
+        public void Attack(Creature target)
+        {
+            target.Health -= this.Power;
         }
     }
 }

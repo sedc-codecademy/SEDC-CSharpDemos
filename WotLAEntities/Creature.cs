@@ -28,10 +28,5 @@ namespace WotLAEntities
         public string Name { get; set; }
         public int Power { get; set; }
         public bool IsAlive { get; protected set; }
-
-        public void Attack(Creature target)
-        {
-            target.Health -= this.Power;
-        }
     }
 }

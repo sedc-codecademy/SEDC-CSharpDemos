@@ -8,12 +8,9 @@ namespace WotLAEntities
 {
     public class Elf : Creature
     {
-        public bool IsArcher { get; set; }
-
         public Elf(string name)
         {
             this.Name = name;
-            IsArcher = true;
             Health = 60;
             Power = 20;
             IsAlive = true;
