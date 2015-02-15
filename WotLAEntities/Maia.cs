@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace WotLAEntities
 {
-    public class Maia : IWeaponWeilder
+    internal class Maia : IWeaponWeilder
     {
+        public string Name { get; set; }
         public int Energy { get; set; }
         public int Mana { get; set; }
 

@@ -15,7 +15,10 @@ namespace WotLAEntities
 
         public override string ToString()
         {
-            return string.Format("Human Fighter {0} ({1})", Name, Health);
+            if (Master == null)
+                return string.Format("Human Fighter {0} ({1})", Name, Health);
+            else
+                return string.Format("Human Fighter {0} ({1}) - Enthralled to {2}", Name, Health, Master.Name);
         }
 
         public void Attack(Creature target)

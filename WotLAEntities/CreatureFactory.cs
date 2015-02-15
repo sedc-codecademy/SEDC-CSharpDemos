@@ -8,6 +8,9 @@ namespace WotLAEntities
 {
     public static class CreatureFactory
     {
+        private static Maia Gandalf = new Maia {Name = "Gandalf"};
+        private static Maia Sauron = new Maia { Name = "Sauron" };
+
         private static int ElfCounter = 0;
         private static int HumanCounter = 0;
         private static int OrcCounter = 0;
@@ -62,7 +65,20 @@ namespace WotLAEntities
             }
             else
             {
-                return new HumanFighter(name);
+                var fighter = new HumanFighter(name);
+                var masterIndex = r.Next(3);
+                switch (masterIndex)
+                {
+                    case 0:
+                        break;
+                    case 1:
+                        fighter.Master = Gandalf;
+                        break;
+                    case 2:
+                        fighter.Master = Sauron;
+                        break;
+                }
+                return fighter;
             }
         }
 

@@ -1,0 +1,6 @@
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Generics\bin\Debug\Generics.exe.config
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Generics\bin\Debug\Generics.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Generics\bin\Debug\Generics.pdb
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Generics\obj\Debug\Generics.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Generics\obj\Debug\Generics.pdb
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache

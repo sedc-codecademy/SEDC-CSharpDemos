@@ -15,8 +15,8 @@ namespace WarOfTheLastAlliance
     public partial class Form1 : Form
     {
         private List<Creature> creatures;
-        private Maia Gandalf;
-        private Maia Sauron;
+        //private Maia Gandalf;
+        //private Maia Sauron;
 
         public Form1()
         {
@@ -26,8 +26,8 @@ namespace WarOfTheLastAlliance
 
         private void btnCreate_Click(object sender, EventArgs e)
         {
-            Gandalf = new Maia {Energy = 50, Mana = 1000};
-            Sauron = new Maia {Energy = 70, Mana = 2000};
+            //Gandalf = new Maia {Energy = 50, Mana = 1000};
+            //Sauron = new Maia {Energy = 70, Mana = 2000};
 
             for (int i = 0; i < 30; i++)
             {
@@ -75,15 +75,15 @@ namespace WarOfTheLastAlliance
         {
             Random r = new Random();
             
+            //var index = r.Next(creatures.Count);
+            //var kutraDusha = creatures[index];
+
+            //Sauron.Attack(kutraDusha);
+            //lbStatus.Items.Add(string.Format("Sauron attacked {0}", kutraDusha));
+            //Gandalf.Attack(kutraDusha);
+            //lbStatus.Items.Add(string.Format("Gandalf attacked {0}", kutraDusha));
+
             var index = r.Next(creatures.Count);
-            var kutraDusha = creatures[index];
-
-            Sauron.Attack(kutraDusha);
-            lbStatus.Items.Add(string.Format("Sauron attacked {0}", kutraDusha));
-            Gandalf.Attack(kutraDusha);
-            lbStatus.Items.Add(string.Format("Gandalf attacked {0}", kutraDusha));
-
-            index = r.Next(creatures.Count);
             var attacker = creatures[index];
             
             if (attacker is IWeaponWeilder)

@@ -1,0 +1,8 @@
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Exercise1Console\bin\Debug\Exercise1Console.exe.config
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Exercise1Console\bin\Debug\Exercise1Console.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Exercise1Console\bin\Debug\Exercise1Console.pdb
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Exercise1Console\bin\Debug\Exercise1Model.dll
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Exercise1Console\bin\Debug\Exercise1Model.pdb
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Exercise1Console\obj\Debug\Exercise1Console.csprojResolveAssemblyReference.cache
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Exercise1Console\obj\Debug\Exercise1Console.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Exercise1Console\obj\Debug\Exercise1Console.pdb

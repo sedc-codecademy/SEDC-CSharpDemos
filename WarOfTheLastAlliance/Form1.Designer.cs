@@ -40,9 +40,9 @@
             // 
             // btnCreate
             // 
-            this.btnCreate.Location = new System.Drawing.Point(39, 23);
+            this.btnCreate.Location = new System.Drawing.Point(12, 12);
             this.btnCreate.Name = "btnCreate";
-            this.btnCreate.Size = new System.Drawing.Size(227, 23);
+            this.btnCreate.Size = new System.Drawing.Size(143, 23);
             this.btnCreate.TabIndex = 0;
             this.btnCreate.Text = "Create Armies";
             this.btnCreate.UseVisualStyleBackColor = true;
@@ -61,9 +61,9 @@
             // lbCreatures
             // 
             this.lbCreatures.FormattingEnabled = true;
-            this.lbCreatures.Location = new System.Drawing.Point(294, 52);
+            this.lbCreatures.Location = new System.Drawing.Point(161, 52);
             this.lbCreatures.Name = "lbCreatures";
-            this.lbCreatures.Size = new System.Drawing.Size(177, 355);
+            this.lbCreatures.Size = new System.Drawing.Size(310, 355);
             this.lbCreatures.TabIndex = 2;
             // 
             // btnOrc
@@ -98,9 +98,9 @@
             // 
             // btnAttaaaaaaack
             // 
-            this.btnAttaaaaaaack.Location = new System.Drawing.Point(54, 76);
+            this.btnAttaaaaaaack.Location = new System.Drawing.Point(12, 41);
             this.btnAttaaaaaaack.Name = "btnAttaaaaaaack";
-            this.btnAttaaaaaaack.Size = new System.Drawing.Size(196, 170);
+            this.btnAttaaaaaaack.Size = new System.Drawing.Size(143, 170);
             this.btnAttaaaaaaack.TabIndex = 6;
             this.btnAttaaaaaaack.Text = "Attaaaaaaack";
             this.btnAttaaaaaaack.UseVisualStyleBackColor = true;
