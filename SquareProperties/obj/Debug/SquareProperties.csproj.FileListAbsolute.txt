@@ -1,0 +1,6 @@
+C:\Source\CSharpDemos\SEDC-CSharpDemos\SquareProperties\bin\Debug\SquareProperties.exe.config
+C:\Source\CSharpDemos\SEDC-CSharpDemos\SquareProperties\bin\Debug\SquareProperties.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\SquareProperties\bin\Debug\SquareProperties.pdb
+C:\Source\CSharpDemos\SEDC-CSharpDemos\SquareProperties\obj\Debug\SquareProperties.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\SquareProperties\obj\Debug\SquareProperties.pdb
+C:\Source\CSharpDemos\SEDC-CSharpDemos\SquareProperties\obj\Debug\SquareProperties.csprojResolveAssemblyReference.cache

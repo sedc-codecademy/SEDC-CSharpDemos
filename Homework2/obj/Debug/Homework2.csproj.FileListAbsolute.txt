@@ -1,0 +1,5 @@
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Homework2\bin\Debug\Homework2.exe.config
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Homework2\bin\Debug\Homework2.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Homework2\bin\Debug\Homework2.pdb
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Homework2\obj\Debug\Homework2.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Homework2\obj\Debug\Homework2.pdb
