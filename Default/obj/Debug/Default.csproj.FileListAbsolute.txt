@@ -1,0 +1,5 @@
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Default\bin\Debug\Default.exe.config
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Default\bin\Debug\Default.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Default\bin\Debug\Default.pdb
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Default\obj\Debug\Default.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Default\obj\Debug\Default.pdb

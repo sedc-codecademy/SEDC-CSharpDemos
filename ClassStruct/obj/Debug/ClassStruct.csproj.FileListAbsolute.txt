@@ -1,6 +1,5 @@
 C:\Source\CSharpDemos\SEDC-CSharpDemos\ClassStruct\bin\Debug\ClassStruct.exe.config
 C:\Source\CSharpDemos\SEDC-CSharpDemos\ClassStruct\bin\Debug\ClassStruct.exe
 C:\Source\CSharpDemos\SEDC-CSharpDemos\ClassStruct\bin\Debug\ClassStruct.pdb
-C:\Source\CSharpDemos\SEDC-CSharpDemos\ClassStruct\obj\Debug\ClassStruct.csprojResolveAssemblyReference.cache
 C:\Source\CSharpDemos\SEDC-CSharpDemos\ClassStruct\obj\Debug\ClassStruct.exe
 C:\Source\CSharpDemos\SEDC-CSharpDemos\ClassStruct\obj\Debug\ClassStruct.pdb

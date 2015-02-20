@@ -1,0 +1,6 @@
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Homework3.5\bin\Debug\Homework3.5.exe.config
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Homework3.5\bin\Debug\Homework3.5.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Homework3.5\bin\Debug\Homework3.5.pdb
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Homework3.5\obj\Debug\Homework3.5.csprojResolveAssemblyReference.cache
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Homework3.5\obj\Debug\Homework3.5.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\Homework3.5\obj\Debug\Homework3.5.pdb
