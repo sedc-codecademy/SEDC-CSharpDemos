@@ -1,0 +1,6 @@
+C:\Source\CSharpDemos\SEDC-CSharpDemos\WOTLA2\bin\Debug\WOTLA2.exe.config
+C:\Source\CSharpDemos\SEDC-CSharpDemos\WOTLA2\bin\Debug\WOTLA2.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\WOTLA2\bin\Debug\WOTLA2.pdb
+C:\Source\CSharpDemos\SEDC-CSharpDemos\WOTLA2\obj\Debug\WOTLA2.csprojResolveAssemblyReference.cache
+C:\Source\CSharpDemos\SEDC-CSharpDemos\WOTLA2\obj\Debug\WOTLA2.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\WOTLA2\obj\Debug\WOTLA2.pdb

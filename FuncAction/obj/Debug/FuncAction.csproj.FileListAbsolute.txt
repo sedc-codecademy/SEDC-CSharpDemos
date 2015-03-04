@@ -1,0 +1,6 @@
+C:\Source\CSharpDemos\SEDC-CSharpDemos\FuncAction\bin\Debug\FuncAction.exe.config
+C:\Source\CSharpDemos\SEDC-CSharpDemos\FuncAction\bin\Debug\FuncAction.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\FuncAction\bin\Debug\FuncAction.pdb
+C:\Source\CSharpDemos\SEDC-CSharpDemos\FuncAction\obj\Debug\FuncAction.csprojResolveAssemblyReference.cache
+C:\Source\CSharpDemos\SEDC-CSharpDemos\FuncAction\obj\Debug\FuncAction.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\FuncAction\obj\Debug\FuncAction.pdb

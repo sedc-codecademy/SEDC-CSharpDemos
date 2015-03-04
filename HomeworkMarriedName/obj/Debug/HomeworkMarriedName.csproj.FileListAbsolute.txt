@@ -1,0 +1,6 @@
+C:\Source\CSharpDemos\SEDC-CSharpDemos\HomeworkMarriedName\bin\Debug\HomeworkMarriedName.exe.config
+C:\Source\CSharpDemos\SEDC-CSharpDemos\HomeworkMarriedName\obj\Debug\HomeworkMarriedName.csprojResolveAssemblyReference.cache
+C:\Source\CSharpDemos\SEDC-CSharpDemos\HomeworkMarriedName\bin\Debug\HomeworkMarriedName.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\HomeworkMarriedName\bin\Debug\HomeworkMarriedName.pdb
+C:\Source\CSharpDemos\SEDC-CSharpDemos\HomeworkMarriedName\obj\Debug\HomeworkMarriedName.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\HomeworkMarriedName\obj\Debug\HomeworkMarriedName.pdb
