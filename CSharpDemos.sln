@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncAction", "FuncAction\Fu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkMarriedName", "HomeworkMarriedName\HomeworkMarriedName.csproj", "{98B9D246-4247-41CF-9B5B-5F3133CA09E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListPrinter", "ListPrinter\ListPrinter.csproj", "{0690C938-3F65-4AFA-8D8F-DD992BDF70E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -185,6 +187,10 @@ Global
 		{98B9D246-4247-41CF-9B5B-5F3133CA09E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98B9D246-4247-41CF-9B5B-5F3133CA09E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98B9D246-4247-41CF-9B5B-5F3133CA09E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0690C938-3F65-4AFA-8D8F-DD992BDF70E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0690C938-3F65-4AFA-8D8F-DD992BDF70E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0690C938-3F65-4AFA-8D8F-DD992BDF70E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0690C938-3F65-4AFA-8D8F-DD992BDF70E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -218,5 +224,6 @@ Global
 		{625D1BB2-04A0-4CBF-93A7-D822634DFAEC} = {FD15B973-ABDD-41FC-8F5F-FB5918AB0525}
 		{8BA74332-CD5D-43B3-BC3B-86C0A898BD04} = {DC5F1900-99ED-4EEB-8D3B-F2B5B025EA42}
 		{98B9D246-4247-41CF-9B5B-5F3133CA09E8} = {29A957E8-0457-458C-97BC-98A8B818E62A}
+		{0690C938-3F65-4AFA-8D8F-DD992BDF70E2} = {DC5F1900-99ED-4EEB-8D3B-F2B5B025EA42}
 	EndGlobalSection
 EndGlobal
