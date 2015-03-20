@@ -14,7 +14,7 @@ namespace ListPrinter
 
             //for (int i = 0; i < 50; i++)
             //{
-            //    numbers.Add((i+1) * 3);
+            //    numbers.Add((i + 1) * 3);
             //}
 
             //ListPrinter<int> printer = new ListPrinter<int>(numbers);
@@ -27,10 +27,35 @@ namespace ListPrinter
                 persons.Add(Person.GeneratePerson());
             }
 
+            Random r = new Random();
+            int methodSelector = r.Next(3);
+            Func<Person, string> formatter = Printer;
+            switch (methodSelector)
+            {
+                case 0:
+                    formatter = p => string.Format("{0} {1}", p.FirstName, p.LastName);
+                    break;
+                case 1:
+                    formatter = p => string.Format("{0}, {1}", p.LastName, p.FirstName);
+                    break;
+                case 2:
+                default:
+                    formatter = x => string.Format("{0} {1}", x.IdNumber, x.LastName);
+                    break;
+            }
+
+            Console.WriteLine(methodSelector);
+
             ListPrinter<Person> printer = new ListPrinter<Person>(persons);
-            printer.PrintListFragment(0, 5);
-            printer.PrintPage(3, 10);
+            //printer.PrintListFragment(0, 5);
+            printer.PrintPage(3, 10, formatter);
 
         }
+
+        private static string Printer(Person person)
+        {
+            return person.FirstName;
+        }
+
     }
 }
