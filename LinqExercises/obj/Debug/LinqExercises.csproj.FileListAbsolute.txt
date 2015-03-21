@@ -1,0 +1,6 @@
+C:\Source\CSharpDemos\SEDC-CSharpDemos\LinqExercises\bin\Debug\LinqExercises.exe.config
+C:\Source\CSharpDemos\SEDC-CSharpDemos\LinqExercises\bin\Debug\LinqExercises.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\LinqExercises\bin\Debug\LinqExercises.pdb
+C:\Source\CSharpDemos\SEDC-CSharpDemos\LinqExercises\obj\Debug\LinqExercises.csprojResolveAssemblyReference.cache
+C:\Source\CSharpDemos\SEDC-CSharpDemos\LinqExercises\obj\Debug\LinqExercises.exe
+C:\Source\CSharpDemos\SEDC-CSharpDemos\LinqExercises\obj\Debug\LinqExercises.pdb

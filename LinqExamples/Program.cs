@@ -10,7 +10,7 @@ namespace LinqExamples
     {
         static void Main(string[] args)
         {
-            var persons = Enumerable.Range(0, 200).Select(_ => Person.GeneratePerson());
+            var persons = Enumerable.Range(0, 20000).Select(_ => Person.GeneratePerson());
 
             //foreach (var person in persons)
             //{
@@ -47,10 +47,32 @@ namespace LinqExamples
 
             foreach (var item in result)
             {
-                Console.WriteLine("{0} {1}", item.FirstName, item.LastName);
+                //Console.WriteLine("{0} {1}", item.FirstName, item.LastName);
             }
+
+            var byLastName = persons.GroupBy(p => p.LastName).OrderBy(g => g.Key);
+
+            DateTime start = DateTime.Now;
+
+            StringBuilder resultLineBuilder = new StringBuilder();
+            foreach (var group in byLastName)
+            {
+                resultLineBuilder.AppendFormat("{0}: ", group.Key);
+                foreach (var person in group.OrderBy(x => x.FirstName))
+                {
+                    resultLineBuilder.AppendFormat("{0}, ", person.FirstName);
+                }
+                resultLineBuilder.AppendLine();
+            }
+
+            DateTime end = DateTime.Now;
+
+            string resultLine = resultLineBuilder.ToString();
+            Console.WriteLine(resultLine);
+            Console.WriteLine(end - start);
 
 
         }
+
     }
 }

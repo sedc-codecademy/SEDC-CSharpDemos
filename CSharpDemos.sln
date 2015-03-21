@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListPrinter", "ListPrinter\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExamples", "LinqExamples\LinqExamples.csproj", "{67AAE1C3-13CC-49D0-8B73-6B6577DED017}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExercises", "LinqExercises\LinqExercises.csproj", "{ECAE13DD-2479-4161-A714-88CECA42EE05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -197,6 +199,10 @@ Global
 		{67AAE1C3-13CC-49D0-8B73-6B6577DED017}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67AAE1C3-13CC-49D0-8B73-6B6577DED017}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67AAE1C3-13CC-49D0-8B73-6B6577DED017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECAE13DD-2479-4161-A714-88CECA42EE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAE13DD-2479-4161-A714-88CECA42EE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECAE13DD-2479-4161-A714-88CECA42EE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECAE13DD-2479-4161-A714-88CECA42EE05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -232,5 +238,6 @@ Global
 		{98B9D246-4247-41CF-9B5B-5F3133CA09E8} = {29A957E8-0457-458C-97BC-98A8B818E62A}
 		{0690C938-3F65-4AFA-8D8F-DD992BDF70E2} = {DC5F1900-99ED-4EEB-8D3B-F2B5B025EA42}
 		{67AAE1C3-13CC-49D0-8B73-6B6577DED017} = {DC5F1900-99ED-4EEB-8D3B-F2B5B025EA42}
+		{ECAE13DD-2479-4161-A714-88CECA42EE05} = {FD15B973-ABDD-41FC-8F5F-FB5918AB0525}
 	EndGlobalSection
 EndGlobal
