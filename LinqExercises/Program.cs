@@ -115,9 +115,6 @@ namespace LinqExercises
                 Console.WriteLine();
             }
 
-
-
-
         }
 
         private static int CompareByLast(int x, int y)
