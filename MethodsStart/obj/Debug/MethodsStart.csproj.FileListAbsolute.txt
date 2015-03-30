@@ -1,6 +1,0 @@
-C:\Source\CSharpDemos\SEDC-CSharpDemos\MethodsStart\bin\Debug\MethodsStart.exe.config
-C:\Source\CSharpDemos\SEDC-CSharpDemos\MethodsStart\bin\Debug\MethodsStart.exe
-C:\Source\CSharpDemos\SEDC-CSharpDemos\MethodsStart\bin\Debug\MethodsStart.pdb
-C:\Source\CSharpDemos\SEDC-CSharpDemos\MethodsStart\obj\Debug\MethodsStart.csprojResolveAssemblyReference.cache
-C:\Source\CSharpDemos\SEDC-CSharpDemos\MethodsStart\obj\Debug\MethodsStart.exe
-C:\Source\CSharpDemos\SEDC-CSharpDemos\MethodsStart\obj\Debug\MethodsStart.pdb

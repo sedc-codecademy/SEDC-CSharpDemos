@@ -1,7 +1,0 @@
-C:\Source\CSharpDemos\NumberComparer\bin\Debug\NumberComparer.exe.config
-C:\Source\CSharpDemos\NumberComparer\bin\Debug\NumberComparer.exe
-C:\Source\CSharpDemos\NumberComparer\bin\Debug\NumberComparer.pdb
-C:\Source\CSharpDemos\NumberComparer\obj\Debug\NumberComparer.csprojResolveAssemblyReference.cache
-C:\Source\CSharpDemos\NumberComparer\obj\Debug\NumberComparer.exe
-C:\Source\CSharpDemos\NumberComparer\obj\Debug\NumberComparer.pdb
-C:\Source\CSharpDemos\DemoForms\bin\Debug\NumberComparer.exe.config

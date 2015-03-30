@@ -1,6 +1,0 @@
-C:\Source\CSharpDemos\SEDC-CSharpDemos\ISPDemo\bin\Debug\ISPDemo.exe.config
-C:\Source\CSharpDemos\SEDC-CSharpDemos\ISPDemo\bin\Debug\ISPDemo.exe
-C:\Source\CSharpDemos\SEDC-CSharpDemos\ISPDemo\bin\Debug\ISPDemo.pdb
-C:\Source\CSharpDemos\SEDC-CSharpDemos\ISPDemo\obj\Debug\ISPDemo.csprojResolveAssemblyReference.cache
-C:\Source\CSharpDemos\SEDC-CSharpDemos\ISPDemo\obj\Debug\ISPDemo.exe
-C:\Source\CSharpDemos\SEDC-CSharpDemos\ISPDemo\obj\Debug\ISPDemo.pdb

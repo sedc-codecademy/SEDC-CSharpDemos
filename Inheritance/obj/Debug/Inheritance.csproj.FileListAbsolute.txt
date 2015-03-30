@@ -1,1 +1,0 @@
-C:\Source\CSharpDemos\SEDC-CSharpDemos\Inheritance\bin\Debug\Inheritance.exe.config

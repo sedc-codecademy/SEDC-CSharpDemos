@@ -1,7 +1,0 @@
-C:\Source\CSharpDemos\SEDC-CSharpDemos\ListPrinter\bin\Debug\ListPrinter.exe.config
-C:\Source\CSharpDemos\SEDC-CSharpDemos\ListPrinter\bin\Debug\ListPrinter.exe
-C:\Source\CSharpDemos\SEDC-CSharpDemos\ListPrinter\bin\Debug\ListPrinter.pdb
-C:\Source\CSharpDemos\SEDC-CSharpDemos\ListPrinter\obj\Debug\ListPrinter.exe
-C:\Source\CSharpDemos\SEDC-CSharpDemos\ListPrinter\obj\Debug\ListPrinter.pdb
-C:\Source\CSharpDemos\SEDC-CSharpDemos\ListPrinter\obj\Debug\ListPrinter.csprojResolveAssemblyReference.cache
-C:\Source\CSharpDemos\SEDC-CSharpDemos\Homework1\bin\Debug\ListPrinter.exe.config

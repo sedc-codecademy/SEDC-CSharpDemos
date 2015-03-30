@@ -1,4 +1,0 @@
-C:\Source\CSharpDemos\SEDC-CSharpDemos\WotLAEntities\bin\Debug\WotLAEntities.dll
-C:\Source\CSharpDemos\SEDC-CSharpDemos\WotLAEntities\bin\Debug\WotLAEntities.pdb
-C:\Source\CSharpDemos\SEDC-CSharpDemos\WotLAEntities\obj\Debug\WotLAEntities.dll
-C:\Source\CSharpDemos\SEDC-CSharpDemos\WotLAEntities\obj\Debug\WotLAEntities.pdb
