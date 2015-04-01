@@ -12,8 +12,6 @@ namespace EventExercises
 
         public bool HasDamage { get; set; }
 
-        public bool Junked { get; private set; }
-
         internal void Hit(Vehicle secondVehicle)
         {
             this.HasDamage = true;
@@ -23,6 +21,19 @@ namespace EventExercises
         public override string ToString()
         {
             return string.Format("{0} - {1}", Name, HasDamage ? "Damaged" : "New");
+        }
+
+        private EventHandler junkHandler;
+
+        private void InvokeJunk()
+        {
+            //todo: write here
+        }
+
+        public event EventHandler OnJunked
+        {
+            add { junkHandler += value; }
+            remove { junkHandler -= value; }
         }
     }
 }

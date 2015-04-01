@@ -10,7 +10,6 @@ namespace EventExercises
     {
         static void Main(string[] args)
         {
-
             var numCars = 15;
             var numCollisions = 10;
 
