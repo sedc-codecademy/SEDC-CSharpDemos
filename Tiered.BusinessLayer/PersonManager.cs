@@ -36,7 +36,8 @@ namespace Tiered.BusinessLayer
 
         public Person AddPerson(string firstName, string lastName)
         {
-            var maxId = GetAllPersons().Max(p => p.ID);
+            var maxId = GetAllPersons().MaxOrDefault(p => p.ID);
+
             Person person = new Person
             {
                 ID = maxId + 1,

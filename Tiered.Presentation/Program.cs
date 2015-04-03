@@ -11,7 +11,7 @@ namespace Tiered.Presentation
 
         static void Main(string[] args)
         {
-            var repository = new FilePersonRepository();
+            var repository = new PersonRepository();
             manager = new PersonManager(repository);
             RunMenu();
         }

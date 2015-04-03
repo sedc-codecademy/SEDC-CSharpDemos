@@ -39,6 +39,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TransactionRepository.cs" />
+    <Compile Include="AccountRepository.cs" />
     <Compile Include="IRepository.cs" />
     <Compile Include="FilePersonRepository.cs" />
     <Compile Include="PersonRepository.cs" />

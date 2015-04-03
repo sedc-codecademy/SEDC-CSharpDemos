@@ -11,13 +11,13 @@ namespace Tiered.DataAccess
     {
         private readonly List<Person> persons = new List<Person>
         {
-            new Person
-            {
-                ID = 1,
-                FirstName = "Wekoslav",
-                LastName = "Stefanovski",
-                Accounts = new List<Account>()
-            }
+            //new Person
+            //{
+            //    ID = 1,
+            //    FirstName = "Wekoslav",
+            //    LastName = "Stefanovski",
+            //    Accounts = new List<Account>()
+            //}
         };
 
         public Person GetItemById(int id)
